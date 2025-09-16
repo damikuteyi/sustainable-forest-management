@@ -1,0 +1,13 @@
+To calculate carbon sequestration in forests, follow these steps:
+
+1. **Measure Biomass**: Estimate the total biomass of trees (above- and below-ground, e.g., roots, stems, leaves) using field measurements (diameter, height) or allometric equations specific to tree species.
+
+2. **Convert Biomass to Carbon**: Multiply biomass by a carbon content factor (typically ~0.5, as ~50% of dry biomass is carbon).
+
+3. **Account for Soil Carbon**: Include soil organic carbon if relevant, measured via soil sampling and lab analysis.
+
+4. **Calculate Annual Sequestration**: Subtract the carbon stock of a previous period from the current stock to find the change over time (e.g., tons of carbon per hectare per year).
+
+5. **Convert to CO₂ Equivalent**: Multiply carbon sequestered by 3.67 (the molecular weight ratio of CO₂ to C) to express as CO₂ equivalent.
+
+Use data from forest inventories, remote sensing, or models like i-Tree for accuracy. Local factors like species, age, and climate affect results.
